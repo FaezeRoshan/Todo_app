@@ -12,7 +12,7 @@ A simple and minimalistic To-Do List application that helps you keep track of yo
 
 ## 🎥 Demo
 
-![Todo List Demo](assets/todo.gif)
+![Todo List Demo](assets/gif/todo.gif)
 
 
 
